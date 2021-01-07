@@ -3,7 +3,7 @@
 [홈페이지](https://bainble.ga/), [지원 이메일 보내기](mailto:support@bainble.ga)
 
 ## 강의 제작자
-메일 보내기 : (메일 보내기)[mailto:support@bainble.ga]
+메일 보내기 : [메일 보내기](mailto:support@bainble.ga)
 디스코드 문의하기 : [디스코드 문의하기](https://discord.com/users/524515155254444032)
 ------------
 ## Discord.py 봇 강의
