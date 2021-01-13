@@ -28,19 +28,26 @@
 
 영어를 알고 할수 있으시고, 이해할수 있으시다면 공식 도큐에서 검색하시는게 더 좋겠죠?
 
-     + dpy 공식 도큐 : [이동하기](https://discordpy.readthedocs.io/en/latest/)
-     + dpy 비공식 도큐 : [이동하기](https://discordpy.cpbu.xyz/)
++ dpy 공식 도큐 : [이동하기](https://discordpy.readthedocs.io/en/latest/)
++ dpy 비공식 도큐 : [이동하기](https://discordpy.cpbu.xyz/)
      
 ------------
 
 ## 강의 수정/기여 안내
 강의에 대한 수정과 기여는 Pull Request(이하 PR)을 만들어주세요!
+
 PR을 만들어 주시면 해당 내용을 검토 후 반영/기각 처리됩니다.
+
 ------------
 ## dpy 강의 목록
 [01강](01강/)
+
 [02강](02강/)
+
 [03강](03강/)
+
 [04강](04강/)
+
 [05강](05강/)
+
 ------------
